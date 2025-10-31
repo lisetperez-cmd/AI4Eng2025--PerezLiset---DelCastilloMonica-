@@ -6,7 +6,7 @@
 - Mónica Del Castillo – Cédula: CC – Ingeniería Industrial
 
 ## Usuario de Kaggle
-- Liset Pérez:  
+- Liset Pérez: lisetaperez 
 - Mónica Del Castillo: 
 
 ## Entrega 2 - Preprocesamiento de Datos
