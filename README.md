@@ -1,13 +1,11 @@
-# AI4Eng2025 - Perez Liset - Del Castillo Monica
+# AI4Eng2025 - Perez Liset 
 # Competencia AI4Eng UdeA - Semestre 2025-2
 
 ## Integrantes
-- Liset Pérez – Cédula: 1044509701 – Ingeniería Industrial  
-- Mónica Del Castillo – Cédula: CC – Ingeniería Industrial
+- Liset Pérez – Cédula: 1044509701 – Ingeniería Industrial
 
 ## Usuario de Kaggle
-- Liset Pérez: lisetaperez 
-- Mónica Del Castillo: 
+- Liset Pérez: lisetaperez
 
 ## Entrega 2 - Preprocesamiento de Datos
 
